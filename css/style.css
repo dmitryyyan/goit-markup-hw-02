@@ -115,3 +115,21 @@ color:#404bbf;
 .hero>.btn:hover,.hero>button:focus{
     background-color:#404BBF;
 }
+.features{
+    width: 1128px;
+    height: 104px;
+    flex-shrink: 0;
+}
+.features-list-title{
+    color: #2E2F42;
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+.features-list-text{
+    color: #434455;
+
+}
