@@ -157,7 +157,7 @@ color:#404bbf;
     letter-spacing: 0.02em;
 }
 .team-title{
-    color:  #2E2F42;
+    color:  #2e2f42;
 text-align: center;
 /* Header 2 */
 font-family: Roboto;
@@ -165,6 +165,6 @@ font-size: 36px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.11;/* 111.111% */
-letter-spacing: 0.02em
+letter-spacing: 0.02em;
 text-transform: capitalize;
 }
