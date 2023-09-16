@@ -34,7 +34,7 @@ body{
     text-transform: uppercase;
 }
 .header-menu-item{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:  #2E2F42;
 
 /* Body Medium */
 font-family: "Roboto", sans-serif;
@@ -106,6 +106,7 @@ color:#404bbf;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
+    cursor: pointer;
 
 }
 .hero>.btn:hover,.hero>button:focus{
