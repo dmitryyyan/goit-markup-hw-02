@@ -132,6 +132,9 @@ color:#404bbf;
     flex-shrink: 0;
     background: #F4F4FD;
 }
+.team-page>ul{
+    list-style-type: none;
+}
 
 .team-page>ul>li{
     border-radius: 0px 0px 4px 4px;
