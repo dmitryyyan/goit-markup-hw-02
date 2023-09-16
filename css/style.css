@@ -99,7 +99,7 @@ color:#404bbf;
     line-height: 1.07;
     letter-spacing: 1.12px;
 }
-.hero>button{
+.hero>.btn{
     border-radius: 4px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #4D5AE5;
@@ -112,6 +112,6 @@ color:#404bbf;
     letter-spacing: 0.64px;
 
 }
-.hero>button:hover,.hero>button:focus{
+.hero>.btn:hover,.hero>button:focus{
     background-color:#404BBF;
 }
