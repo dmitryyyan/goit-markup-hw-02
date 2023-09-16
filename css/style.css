@@ -15,7 +15,7 @@ body{
 
 }
 .header-logo{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -32,7 +32,7 @@ font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.17;
+line-height: 1.5;
 letter-spacing: 0.32px;
 }
 .address-item{
@@ -63,4 +63,7 @@ letter-spacing: 0.32px;
 }
 .header-menu-link{
 color: #2E2F42;
+}
+.header-menu-link:hover{
+color:#404bbf;
 }
