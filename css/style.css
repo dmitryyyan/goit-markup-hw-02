@@ -140,7 +140,7 @@ color:#404bbf;
     align-items: center;
     
 }
-.team-page>.team-list-title{
+.team-page>ul>li>h3{
     color:  #2E2F42;
     text-align: center;
     /* Header 3 */
@@ -151,7 +151,7 @@ color:#404bbf;
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
 }
-.team-page>.team-list-text{
+.team-page>ul>li>p{
     color:  #434455;
     text-align: center;
     letter-spacing: 0.02em;
