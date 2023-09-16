@@ -1,16 +1,9 @@
 body{
     
-    font-family: "Roboto",  sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #ffffff;
     color:#434455;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-    line-height: 1;
-   padding-left:  0;
+   
 }
 
 .logo-studio{
