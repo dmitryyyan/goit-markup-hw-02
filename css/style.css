@@ -190,18 +190,19 @@ text-transform: capitalize;
     letter-spacing: 0.02em;
     text-transform: capitalize; 
 }
-.portfolio>h3{
+.portfolio>ul>li>h3{
     color:  #2E2F42;
 
 /* Header 3 */
-font-family: Roboto;
+font-family: "Roboto",sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2; /* 120% */
 letter-spacing: 0.4px;
+letter-spacing: 0.02em;
 }
-.portfolio>p{
+.portfolio>ul>li>p{
     color:  #434455;
 
 /* Body */
