@@ -97,7 +97,7 @@ color:#404bbf;
     letter-spacing: 1.12px;
 }
 .hero>.btn{
-    border-radius: 4px;
+    
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #4D5AE5;
     color:#ffffff;
@@ -138,10 +138,10 @@ color:#404bbf;
 }
 
 .team-page>ul>li{
-    border-radius: 0px 0px 4px 4px;
+    
     background:  #ffffff;
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
-    align-items: center;
+   
+    
     
 }
 .team-page>ul>li>h3{
