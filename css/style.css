@@ -214,9 +214,11 @@ font-weight: 700;
 line-height: 1.17;/* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
+text-decoration: none;
 }
 .logo-footer{
     color: #F4F4FD;
+    
 }
 .footer-text{
     color: #F4F4FD;
